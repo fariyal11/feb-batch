@@ -1,0 +1,58 @@
+html{
+    background-color: aqua;
+}
+body{
+    width: 800px;
+    height: 800px;
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+}
+#header{
+    width: 800px;
+    height: 100px;
+    background-color: blue;
+}
+
+#navbar{
+    width: 800px;
+    height: 150px;
+    background-color:orangered;
+
+}
+#leftcontent{
+    width: 200px;
+    height: 500px;
+    text-align: center;
+    background-color: rgb(13, 97, 97);
+    float: left;
+}
+ /* #vertical{
+        background-color: black;
+        width: 200px;
+        height: 500px;
+    } */
+    #vertical ul li{
+    list-style-type: none;
+    padding-top: 70px;
+    text-decoration: none;
+    text-align: center;
+    font-size: x-large;
+    }
+    
+
+#rightcontent{
+    width:600px ;
+    height: 500px;
+    background-color: palevioletred;
+    float: right;
+    }
+    p{
+        text-align: left;
+        font-size: x-large;
+    }
+#footer{
+    width: 800px;
+    height: 100%;
+    background-color:orange;
+}

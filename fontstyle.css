@@ -1,0 +1,23 @@
+html{
+    background-color: aquamarine;
+}
+body{
+    background-color: blue;
+    width: 900px;
+    height: 900px;
+}
+
+
+
+
+
+
+p{
+    
+    color: black;
+    display:inline-block;
+    /* font-weight: bold; */
+    font-style: italic;
+    font-size:large;
+    font-variant: small-caps;
+}

@@ -1,0 +1,16 @@
+html{
+    background-color: blue;
+}
+body{
+    background-color: blueviolet;
+    width: 900px;
+    height: 900px;
+}
+p{
+    text-align: center;
+    text-decoration: overline;
+    text-transform: lowercase;
+    text-indent: 50px;
+    color: beige;
+    font-size: medium;
+}

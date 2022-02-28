@@ -1,0 +1,21 @@
+html{
+    background-color: aquamarine;
+}
+body{
+     background-color: blue;
+     width: 700px;
+     height: 700px;
+}
+div{
+    background-color: aliceblue;
+    width: 200px;
+    height:200px;
+    margin: 20px;
+    border: 2px;
+    /* margin-right: 20px; */
+    text-align: center;
+    text-transform: lowercase;
+    text-indent: 50px;
+    text-decoration: underline;
+    display:inline-block;
+}

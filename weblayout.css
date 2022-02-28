@@ -1,0 +1,37 @@
+html{
+    background-color: aqua;
+}
+body{
+    width: 800px;
+    height: 800px;
+    background-color: blueviolet;
+    margin: 0 auto;
+}
+#header{
+    width: 800px;
+    height: 100px;
+    background-color: blue;
+}
+#navbar{
+    width: 800px;
+    height: 100px;
+    background-color: brown;
+}
+#leftcontent{
+    width: 200px;
+    height: 500px;
+    background-color: rgb(13, 97, 97);
+    float: left;
+
+}
+#rightcontent{
+    width:600px ;
+    height: 500px;
+    background-color: palevioletred;
+    float: right;
+}
+#footer{
+    width: 800px;
+    height: 100%;
+    background-color:orange;
+}
